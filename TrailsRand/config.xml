@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Trails</name>
+    <name>TrailsRand</name>
     <description>
-        A ball leaves a trail
+        A ball leaves a trail with more randomness
     </description>
     <author email="blemke4@gmail.com" href="#">
     </author>
